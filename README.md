@@ -18,9 +18,9 @@
 1. Python
 
 #### [시연 영상]
-      <p align="center">
-        <img src="https://github.com/dev-yihyun/python_calculator/assets/67820737/6cf974e4-0b62-4b3e-9a3b-415f937cdee4">
-      </p>
+<p align="center">
+  <img src="https://github.com/dev-yihyun/python_calculator/assets/67820737/6cf974e4-0b62-4b3e-9a3b-415f937cdee4">
+</p>
 
 #### [구현]
 - **버튼 클릭** : 버튼을 클릭하여 사칙연산을 입력하도록 하였습니다.
